@@ -1,0 +1,31 @@
+Nothing can survive your deadly punch!
+
+After 3 years of intensive training, you are now ready to be a true hero! Fighting crime, and saving innocent people from evil monsters... Or maybe just stay home and watch TV, your choice.
+
+[b]Any question or problem to use this mod? [url=http://steamcommunity.com/sharedfiles/filedetails/?id=314929396]Click here to read the FAQ.[/url][/b]
+
+[b]FEATURES[/b]
+- One Punch Goat: Everything you hurt die instantly, you have a cape, you are stronger and faster.
+- One Punch Theme: ONE PUUUNCH!
+
+[b]CHARACTERISTICS[/b]
+[h1]One Punch Goat[/h1]
+- Any creature you hurt will be dead, forever.
+- Your hits are super strong and throw things really far away.
+- You won't ragdoll in most cases unless you do it manually.
+- Your sprint speed is almost unlimited.
+
+[b]EASTER EGGS[/b]
+- [spoiler]You can perform a super jump, it works more or less like normal jump, except you have to charge it ;)[/spoiler]
+- [spoiler]Wizard Goat is still able to revive creatures killed by this mod.[/spoiler]
+
+[b]KNOWN BUGS[/b]
+- The cape is glitchy and pass through your body: Yes.
+- Sometimes your cape can stop moving. Respawn to fix.
+- If you run too fast you can rarely pass through the floor.
+
+[b]DEV NOTES[/b]
+[quote=About this mod]I think I refused this mod in the beginning because I thought it would only be a simple copy of the Ripped Goat... But someone asked for it again recently and I thought that I could pack into this mod a bunch of abilities that were requested by many people but that I could never add to another mod ^^
+So the main feature here is the ability to kill NPCs forever (I took that from my Wizard Goat mod). Of course as a One Punch Goat you need a super strong headbut and kick so I tried to make it so that it will be strong but not too much (to avoid having objects catapulted out of the map in less than one second :p).
+Then I added a few other abilities that are usefull in general and not too hard to implement: the immunity to ragdoll in most cases is already present in the game (used for the T-Rex mutator), and the huge sprint speed is something you can change easily ^^
+Also as I didn't want any flight ability in this mod (because it's not really matching the character), I still added a super high jump that work very well with the anti-ragdoll ability :)[/quote]
